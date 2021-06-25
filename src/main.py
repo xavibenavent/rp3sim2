@@ -9,6 +9,5 @@ def print_hi(name):
 if __name__ == '__main__':
     df = pd.read_csv('docs/regulations_2019.csv')
     print(df.head())
-    print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
